@@ -1,0 +1,64 @@
+nav {
+	float: right;
+}
+h1{
+	color: red;
+	text-decoration: underline red;
+	text-align: center;
+	padding-top: 30px;
+}
+p{
+	color: #0000BB;
+}
+
+ol li:nth-child(even) {
+    color:#0000BB;
+}
+ol li:nth-child(odd) {
+    color:#FF0000;
+}
+ul li:nth-child(odd) {
+    color:#0000BB;
+}
+ul li:nth-child(even) {
+    color:#FF0000;
+}
+.leftBox{
+  float: left;
+  width: 200px;
+  height: 420px;
+
+  padding-left:300px;
+}
+img{
+	width: 300px;
+}
+#elon{
+  height: 200px;
+  width: 200px;
+  padding-left: 50px;
+}
+.rightBox{
+  width: 657px;
+  height: 420px;
+  float: right;
+}
+#Child{
+  float: right;
+  text-align: left;
+}
+h3{
+	text-decoration:underline;
+	text-align: center;
+}
+#ComFou{
+  padding-top: 360px;
+}
+
+#PopMedia
+{
+  margin-top: 60px;
+}
+.centerBox{
+	padding-left: 200px;
+}
